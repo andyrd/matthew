@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Factors Basic Standard Form/1.0.0": {
+        "runtime": {
+          "Factors Basic Standard Form.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Factors Basic Standard Form/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

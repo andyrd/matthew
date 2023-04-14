@@ -1,0 +1,15 @@
+C:\Users\andy\Projects\Factors Basic Standard Form\bin\Debug\net6.0\Factors Basic Standard Form.exe
+C:\Users\andy\Projects\Factors Basic Standard Form\bin\Debug\net6.0\Factors Basic Standard Form.deps.json
+C:\Users\andy\Projects\Factors Basic Standard Form\bin\Debug\net6.0\Factors Basic Standard Form.runtimeconfig.json
+C:\Users\andy\Projects\Factors Basic Standard Form\bin\Debug\net6.0\Factors Basic Standard Form.dll
+C:\Users\andy\Projects\Factors Basic Standard Form\bin\Debug\net6.0\Factors Basic Standard Form.pdb
+C:\Users\andy\Projects\Factors Basic Standard Form\obj\Debug\net6.0\Factors Basic Standard Form.csproj.AssemblyReference.cache
+C:\Users\andy\Projects\Factors Basic Standard Form\obj\Debug\net6.0\Factors Basic Standard Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andy\Projects\Factors Basic Standard Form\obj\Debug\net6.0\Factors Basic Standard Form.AssemblyInfoInputs.cache
+C:\Users\andy\Projects\Factors Basic Standard Form\obj\Debug\net6.0\Factors Basic Standard Form.AssemblyInfo.cs
+C:\Users\andy\Projects\Factors Basic Standard Form\obj\Debug\net6.0\Factors Basic Standard Form.csproj.CoreCompileInputs.cache
+C:\Users\andy\Projects\Factors Basic Standard Form\obj\Debug\net6.0\Factors Basic Standard Form.dll
+C:\Users\andy\Projects\Factors Basic Standard Form\obj\Debug\net6.0\refint\Factors Basic Standard Form.dll
+C:\Users\andy\Projects\Factors Basic Standard Form\obj\Debug\net6.0\Factors Basic Standard Form.pdb
+C:\Users\andy\Projects\Factors Basic Standard Form\obj\Debug\net6.0\Factors Basic Standard Form.genruntimeconfig.cache
+C:\Users\andy\Projects\Factors Basic Standard Form\obj\Debug\net6.0\ref\Factors Basic Standard Form.dll
